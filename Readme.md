@@ -7,7 +7,9 @@
 
 2. Breakdown the UI into different components and name them accordingly.
 
-3. Start coding.
+3. Mockup user flow and user experience.
+
+4. Start coding.
 
 ## Back-end Developer
 
